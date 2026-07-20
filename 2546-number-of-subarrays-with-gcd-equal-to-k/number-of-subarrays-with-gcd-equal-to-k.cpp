@@ -8,6 +8,7 @@ public:
             for(int j=i;j<n;j++){
                 g = gcd(g,nums[j]);
                 if(g==k) cnt++;
+                else if(g<k) break;
             }
         }
         return cnt;
