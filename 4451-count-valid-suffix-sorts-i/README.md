@@ -4,9 +4,7 @@
 
 <p>Return the number of indices <code>i</code> for which the resulting array is equal to <code>target</code>.</p>
 
-<p>A <strong>subarray</strong> is a contiguous <strong>non-empty</strong> sequence of elements within an array.</p>
-
-<p>A <strong>suffix</strong> of an array is a subarray that begins at any index and extends to the end of the array.</p>
+<p>A <strong>suffix</strong> of an array is a <span data-keyword="subarray-nonempty">subarray</span> that begins at any index and extends to the end of the array.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
